@@ -1,4 +1,4 @@
 <?php
-$name = "anubis"; // the name of your application
-$OwnerId = "UX5UfpdK0z"; // can be found in your account settings
-$SellerKey = "043360d6bf7dabf74892605170b63b05"; // application's seller key. Found in seller settings (You must have seller plan)
+    name: "micoisohio", // Application Name
+    ownerid: "lH02X9y9mg", // Owner ID
+    secret: "876dc8b6f96da199b80e21df3f62829b425b5891dce278d464589a1901954950", // Application Secret
